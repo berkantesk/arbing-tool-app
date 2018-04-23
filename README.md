@@ -2,31 +2,36 @@
 
 **How do I get set up?**
 
-brew install node
+1. Install [Brew](https://brew.sh/index_tr), for package manager.
 
-brew install watchman
+2. Install Node.js. ``brew install node``.
 
-npm install -g react-native-cli
+3. Install React Native CLI ``npm install -g react-native-cli``
 
-Clone this repo,
-> git clone https://github.com/berkantesk/arbing-tool-app.git
+4. Install Watchman ``brew install watchman``
 
-npm install
+5. Clone this repo, ``https://github.com/berkantesk/arbing-tool-app.git``
+
+6. Enter project directory ``cd arbing-tool-app``
+
+7. Install project's packages. ``npm install``
+
 
 **For iOS**
 
-xcode already install for emulator.
+>Xcode already install for emulator.
 
-react-native run-ios
+``react-native run-ios``
+
 
 **For Android**
 
-Download and install Android Studio
+1. Download and install Android Studio
 
-Install the AVD and HAXM
+2. Install the AVD and HAXM
 
-Install the Android 6.0 (Marshmallow) SDK
+3. Install the Android 6.0 (Marshmallow) SDK
 
-Set up the ANDROID_HOME environment variable
+4. Set up the **ANDROID_HOME** environment variable
 
-react-native run-android
+``react-native run-android``
