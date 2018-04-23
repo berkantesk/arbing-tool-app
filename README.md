@@ -10,7 +10,7 @@
 
 4. Install Watchman ``brew install watchman``
 
-5. Clone this repo, ``https://github.com/berkantesk/arbing-tool-app.git``
+5. Clone this repo, ``git clone https://github.com/berkantesk/arbing-tool-app.git``
 
 6. Enter project directory ``cd arbing-tool-app``
 
