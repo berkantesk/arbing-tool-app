@@ -16,6 +16,8 @@
 
 7. Install project's packages. ``npm install``
 
+8. Link all packages with React Native. ``react-native link``
+
 
 **For iOS**
 
